@@ -20,4 +20,4 @@ My first repository
 
 [WandaVision](https://www.disneyplus.com/en-ph/browse/entity-90affd1f-0851-48bc-9cab-c142d5c9c20c)
 
-![WandaVision Poster](wandavision.jpg)
+![WandaVision Poster]([wandavision.jpg](https://cdn.marvel.com/content/2x/wv_online.webp))
